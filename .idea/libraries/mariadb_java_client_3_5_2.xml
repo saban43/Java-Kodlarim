@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mariadb-java-client-3.5.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ders-58-OOP-Veritabani-Islemleri-JDBC/mariadb-java-client-3.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
